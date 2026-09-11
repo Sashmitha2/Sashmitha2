@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Sashmitha
 
-<!--
-**Sashmitha2/Sashmitha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Computer Science student interested in DevOps, Cloud Computing, and Software Engineering. I enjoy building practical applications and exploring how software can be deployed, automated, and managed efficiently.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Final-year Computer Science student
+☁️ Interested in Cloud Computing & Cloud Infrastructure
+⚙️ Interested in DevOps, CI/CD & Automation
+🤔 Currently expanding my knowledge of cloud and DevOps technologies
+🚀 Currently working on my Final Year Project
+💼 Open to Software Engineering, DevOps & Cloud Internship opportunities
+  
+## Featured Projects
+
+## Paws & Perch
+A pet supply web application developed using Laravel and PHP.
+
+## Event Management System
+A web-based event management application developed using C# and .NET.
+
+## Currently Learning
+⚙️ DevOps & CI/CD
+🐳 Docker & Containerization
+🔄 Automation & Deployment
+☁️ Cloud Platforms such as AWS / Azure
