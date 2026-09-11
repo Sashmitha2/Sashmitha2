@@ -14,7 +14,7 @@ I am a final-year Computer Science student interested in DevOps, Cloud Computing
 ## Featured Projects
 
 ## Paws & Perch
-A pet supply web application developed using Laravel and PHP.
+A pet supply web application developed using Laravel and PHP and deployed using AWS EC2 instance.
 
 ## Event Management System
 A web-based event management application developed using C# and .NET.
