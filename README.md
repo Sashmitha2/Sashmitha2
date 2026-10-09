@@ -1,13 +1,17 @@
 ## Hi, I'm Sashmitha 👋
 
-I am a final-year Computer Science student interested in DevOps, Site Reliability Engineering, Cloud Computing, and Software Engineering. I enjoy building practical applications and exploring how to automate deployments, troubleshoot issues, and improve the reliability of software systems.
+I am a final-year Computer Science student with an interest in technology, problem-solving, and software development. I enjoy working on practical projects, analysing requirements, improving processes, testing solutions, and collaborating to achieve project goals. I am eager to learn new skills and apply my knowledge to develop effective, reliable, and user-focused solutions.
 
 ## Technical Skills
-Languages: Python, Java, PHP, SQL <br>
-Cloud & Infrastructure: AWS, CloudFormation <br>
-DevOps: DOcker, Git, GitHub Actions(CI/CD) <br>
-Databases: MySQL, Microsoft SQL Server, MongoDB <>br
-Web Development: Lavaravel, JavaScript, HTML, CSS, React.js, Node,js, Express.js, REST APIs
+Programming Languages: Python, Java, PHP, JavaScript, SQL
+Cloud & Infrastructure: AWS, AWS CloudFormation
+DevOps & CI/CD: Docker, Git, GitHub Actions
+Databases: MySQL, Microsoft SQL Server, MongoDB
+Web Development: Laravel, React.js, Node.js, Express.js, HTML, CSS, REST APIs
+Testing & QA: Selenium, Postman, Test Case Design, Software Testing
+Data Analysis & Visualization: Microsoft Excel, Power BI
+UI/UX Design & Prototyping: Figma
+Project Management & Collaboration: Jira
   
 ## Featured Projects
 
