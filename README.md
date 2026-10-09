@@ -3,15 +3,15 @@
 I am a final-year Computer Science student with an interest in technology, problem-solving, and software development. I enjoy working on practical projects, analysing requirements, improving processes, testing solutions, and collaborating to achieve project goals. I am eager to learn new skills and apply my knowledge to develop effective, reliable, and user-focused solutions.
 
 ## Technical Skills
-Programming Languages: Python, Java, PHP, JavaScript, SQL
-Cloud & Infrastructure: AWS, AWS CloudFormation
-DevOps & CI/CD: Docker, Git, GitHub Actions
-Databases: MySQL, Microsoft SQL Server, MongoDB
-Web Development: Laravel, React.js, Node.js, Express.js, HTML, CSS, REST APIs
-Testing & QA: Selenium, Postman, Test Case Design, Software Testing
-Data Analysis & Visualization: Microsoft Excel, Power BI
-UI/UX Design & Prototyping: Figma
-Project Management & Collaboration: Jira
+Programming Languages: Python, Java, PHP, JavaScript, SQL <br>
+Cloud & Infrastructure: AWS, AWS CloudFormation <br>
+DevOps & CI/CD: Docker, Git, GitHub Actions <br>
+Databases: MySQL, Microsoft SQL Server, MongoDB <br>
+Web Development: Laravel, React.js, Node.js, Express.js, HTML, CSS, REST APIs <br>
+Testing & QA: Selenium, Postman, Test Case Design, Software Testing <br>
+Data Analysis & Visualization: Microsoft Excel, Power BI <br>
+UI/UX Design & Prototyping: Figma <br>
+Project Management & Collaboration: Jira <br>
   
 ## Featured Projects
 
