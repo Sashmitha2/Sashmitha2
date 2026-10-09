@@ -1,26 +1,30 @@
 ## Hi, I'm Sashmitha
 
-I am a final-year Computer Science student interested in DevOps, Cloud Computing, and Software Engineering. I enjoy building practical applications and exploring how software can be deployed, automated, and managed efficiently.
+I am a final-year Computer Science student interested in DevOps, Site Reliability Engineering, Cloud Computing, and Software Engineering. I enjoy building practical applications and exploring how to automate deployments, troubleshoot issues, and improve the reliability of software systems.
 
-## About Me
-
-🔭 Final-year Computer Science student
-☁️ Interested in Cloud Computing & Cloud Infrastructure
-⚙️ Interested in DevOps, CI/CD & Automation
-🤔 Currently expanding my knowledge of cloud and DevOps technologies
-🚀 Currently working on my Final Year Project
-💼 Open to Software Engineering, DevOps & Cloud Internship opportunities
+## Technical Skills
+Languages: Python, Java, PHP, SQL
+Cloud & Infrastructure: AWS, CloudFormation
+DevOps: DOcker, Git, GitHub Actions(CI/CD)
+Databases: MySQL, Microsoft SQL Server, MongoDB
+Web Development: Lavaravel, JavaScript, HTML, CSS, React.js, Node,js, Express.js, REST APIs
   
 ## Featured Projects
 
+## AWS ClouFormation Infrastructure Automation
+
+Automated AWS infrastructure provisioning using Infrastructure as Code, with deployment validation and rollback for failed stack operations.
+
 ## Paws & Perch
-A pet supply web application developed using Laravel and PHP and deployed using AWS EC2 instance.
+
+A Laravel and PHP pet supply application featuring authentication, product management, order processing, and MySQL integration, deployed on AWS EC2.
 
 ## Event Management System
-A web-based event management application developed using C# and .NET.
+
+A C# and .NET application supporting role-based access, event scheduling, and booking management.
 
 ## Currently Learning
-⚙️ DevOps & CI/CD
+⚙️ DevOps & Site Reliability Engineering fundamentals
 🐳 Docker & Containerization
 🔄 Automation & Deployment
 ☁️ Cloud Platforms such as AWS / Azure
