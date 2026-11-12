@@ -8,7 +8,7 @@ Cloud & Infrastructure: AWS, AWS CloudFormation <br>
 DevOps & CI/CD: Docker, Git, GitHub Actions <br>
 Databases: MySQL, Microsoft SQL Server, MongoDB <br>
 Web Development: Laravel, React.js, Node.js, Express.js, HTML, CSS, REST APIs <br>
-Testing & QA: Selenium, Postman, Test Case Design, Software Testing <br>
+Testing & QA: Selenium, Playwright, Postman, Test Case Design, Software Testing <br>
 Data Analysis & Visualization: Microsoft Excel, Power BI <br>
 UI/UX Design & Prototyping: Figma <br>
 Project Management & Collaboration: Jira <br>
