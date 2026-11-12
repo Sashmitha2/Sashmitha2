@@ -15,6 +15,10 @@ Project Management & Collaboration: Jira <br>
   
 ## Featured Projects
 
+## E-Commerce Website Automation Testing
+
+An end-to-end test automation project developed using Playwright and JavaScript to validate e-commerce workflows, including login functionality, input validation, error handling and shopping cart operations.
+
 ## SupplyGuard -- Raw Material & Supplier Disruption Decision Analytics System
 
 A full-stack supply-chain analytics application built with React, Node.js, Express and MongoDB, featuring rule-based risk scoring and an interactive dashboard for supplier, inventory and disruption analysis.
